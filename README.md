@@ -9,6 +9,8 @@ Folgende Konsolenparameter verfügbar:
 `/end`
 `/hours`
 
-Beispiel
+*Beispiel:*
 
+```
 ...exe" /start 2019-01-01 /hours 2
+```
